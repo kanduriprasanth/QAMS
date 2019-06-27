@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <UserId>3</UserId>
+    <UserName>prasanth. k</UserName>
+    <TransactionType>1</TransactionType>
+    <LogInDateTime>2017-05-30T10:25:34.4942152+05:30</LogInDateTime>
+    <LogOutDateTime>1/1/1901</LogOutDateTime>
+    <LogInIPADD>::1</LogInIPADD>
+    <LogOutIPADD />
+    <SeqNo>5_30_2017_10_25_34_AM</SeqNo>
+    <Plantcode>O</Plantcode>
+    <LoginMachineName>Machine Not in Domain</LoginMachineName>
+    <LogOutMachineName />
+    <SessionId>htihq1bo4cgsflh5gtz2eohh</SessionId>
+    <LastAccTime>2017-05-30T11:25:34.5879765+05:30</LastAccTime>
+  </Table1>
+  <Table1>
+    <UserId>3</UserId>
+    <UserName>prasanth. k</UserName>
+    <TransactionType>1</TransactionType>
+    <LogInDateTime>2017-05-30T10:57:37.8135942+05:30</LogInDateTime>
+    <LogOutDateTime>2017-05-30T11:04:08.0972521+05:30</LogOutDateTime>
+    <LogInIPADD>10.10.2.50</LogInIPADD>
+    <LogOutIPADD>10.10.2.50</LogOutIPADD>
+    <SeqNo>5_30_2017_10_57_37_AM</SeqNo>
+    <Plantcode xml:space="preserve"> </Plantcode>
+    <LoginMachineName>cal2050.vision.com</LoginMachineName>
+    <LogOutMachineName>cal2050.vision.com</LogOutMachineName>
+    <SessionId>dvpamsxy3sajqlicgjinwa3j</SessionId>
+    <LastAccTime>2017-05-30T11:57:37.8605632+05:30</LastAccTime>
+  </Table1>
+</NewDataSet>

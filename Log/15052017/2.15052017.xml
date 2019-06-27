@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <UserId>2</UserId>
+    <UserName>QAMS. ADMIN</UserName>
+    <TransactionType>1</TransactionType>
+    <LogInDateTime>2017-05-15T12:23:23.8273692+05:30</LogInDateTime>
+    <LogOutDateTime>2017-05-15T12:24:23.6222742+05:30</LogOutDateTime>
+    <LogInIPADD>10.10.2.104</LogInIPADD>
+    <LogOutIPADD>10.10.2.104</LogOutIPADD>
+    <SeqNo>5_15_2017_12_23_23_PM</SeqNo>
+    <Plantcode xml:space="preserve"> </Plantcode>
+    <LoginMachineName>cal2104.vision.com</LoginMachineName>
+    <LogOutMachineName>cal2104.vision.com</LogOutMachineName>
+    <SessionId>ypxidwhkfoupxi1leinsmdo0</SessionId>
+    <LastAccTime>2017-05-15T13:23:23.8429692+05:30</LastAccTime>
+  </Table1>
+  <Table1>
+    <UserId>2</UserId>
+    <UserName>QAMS. ADMIN</UserName>
+    <TransactionType>1</TransactionType>
+    <LogInDateTime>2017-05-15T15:37:55.8305885+05:30</LogInDateTime>
+    <LogOutDateTime>2017-05-15T15:53:01.0221783+05:30</LogOutDateTime>
+    <LogInIPADD>10.10.2.104</LogInIPADD>
+    <LogOutIPADD>10.10.2.104</LogOutIPADD>
+    <SeqNo>5_15_2017_3_37_55_PM</SeqNo>
+    <Plantcode xml:space="preserve"> </Plantcode>
+    <LoginMachineName>cal2104.vision.com</LoginMachineName>
+    <LogOutMachineName>cal2104.vision.com</LogOutMachineName>
+    <SessionId>asbtwwedmf40lteiqehscrlr</SessionId>
+    <LastAccTime>2017-05-15T16:37:55.8305885+05:30</LastAccTime>
+  </Table1>
+  <Table1>
+    <UserId>2</UserId>
+    <UserName>QAMS. ADMIN</UserName>
+    <TransactionType>1</TransactionType>
+    <LogInDateTime>2017-05-15T15:45:59.2754376+05:30</LogInDateTime>
+    <LogOutDateTime>1/1/1901</LogOutDateTime>
+    <LogInIPADD>10.10.2.141</LogInIPADD>
+    <LogOutIPADD />
+    <SeqNo>5_15_2017_3_45_59_PM</SeqNo>
+    <Plantcode>O</Plantcode>
+    <LoginMachineName>cal2141.vision.com</LoginMachineName>
+    <LogOutMachineName />
+    <SessionId>hmidlvtpph3xa054xy4iqmb3</SessionId>
+    <LastAccTime>2017-05-15T16:45:59.2754376+05:30</LastAccTime>
+  </Table1>
+  <Table1>
+    <UserId>2</UserId>
+    <UserName>QAMS. ADMIN</UserName>
+    <TransactionType>1</TransactionType>
+    <LogInDateTime>2017-05-15T17:35:08.8533413+05:30</LogInDateTime>
+    <LogOutDateTime>1/1/1901</LogOutDateTime>
+    <LogInIPADD>10.10.2.141</LogInIPADD>
+    <LogOutIPADD />
+    <SeqNo>5_15_2017_5_35_08_PM</SeqNo>
+    <Plantcode>O</Plantcode>
+    <LoginMachineName>cal2141.vision.com</LoginMachineName>
+    <LogOutMachineName />
+    <SessionId>hmidlvtpph3xa054xy4iqmb3</SessionId>
+    <LastAccTime>2017-05-15T18:35:08.8533413+05:30</LastAccTime>
+  </Table1>
+  <Table1>
+    <UserId>2</UserId>
+    <UserName>QAMS. ADMIN</UserName>
+    <TransactionType>1</TransactionType>
+    <LogInDateTime>2017-05-15T19:01:59.4184932+05:30</LogInDateTime>
+    <LogOutDateTime>1/1/1901</LogOutDateTime>
+    <LogInIPADD>10.10.2.141</LogInIPADD>
+    <LogOutIPADD />
+    <SeqNo>5_15_2017_7_01_59_PM</SeqNo>
+    <Plantcode>O</Plantcode>
+    <LoginMachineName>cal2141.vision.com</LoginMachineName>
+    <LogOutMachineName />
+    <SessionId>hmidlvtpph3xa054xy4iqmb3</SessionId>
+    <LastAccTime>2017-05-15T20:01:59.4184932+05:30</LastAccTime>
+  </Table1>
+  <Table1>
+    <UserId>2</UserId>
+    <UserName>QAMS. ADMIN</UserName>
+    <TransactionType>1</TransactionType>
+    <LogInDateTime>2017-05-15T19:48:59.7006467+05:30</LogInDateTime>
+    <LogOutDateTime>2017-05-15T19:55:12.4789015+05:30</LogOutDateTime>
+    <LogInIPADD>10.10.2.141</LogInIPADD>
+    <LogOutIPADD>10.10.2.141</LogOutIPADD>
+    <SeqNo>5_15_2017_7_48_59_PM</SeqNo>
+    <Plantcode xml:space="preserve"> </Plantcode>
+    <LoginMachineName>cal2141.vision.com</LoginMachineName>
+    <LogOutMachineName>cal2141.vision.com</LogOutMachineName>
+    <SessionId>lfecitnf5k1ttltu1fz5q3hk</SessionId>
+    <LastAccTime>2017-05-15T20:48:59.7006467+05:30</LastAccTime>
+  </Table1>
+</NewDataSet>
